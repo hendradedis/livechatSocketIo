@@ -1,5 +1,4 @@
 # livechatSocketIo
-livechatSocketIo
 
 ```
 install :
@@ -9,7 +8,7 @@ install :
 ```
 
 first set URL config local
-this.socket = io("http://192.168.1.4:3000");
+this.socket = io("http://localhost:3000");
 inet: cek ifconfig
 
 run iTerm atau terminal berbeda 
